@@ -3,7 +3,6 @@ import GoogleProvider from "next-auth/providers/google";
 import FacebookProvider from "next-auth/providers/facebook";
 import GithubProvider from "next-auth/providers/github";
 import CredentialsProvider from "next-auth/providers/credentials";
-
 interface GoogleProviderTy {
   clientId: string;
   clientSecret: string;
@@ -11,6 +10,10 @@ interface GoogleProviderTy {
 
 export const authOptions: NextAuthOptions = {
   secret: process.env.NEXTAUTH_SECRET,
+  session: { strategy: "jwt" },
+  jwt: {
+    secret: process.env.NEXTAUTH_SECRET,
+  },
   providers: [
     FacebookProvider({
       clientId: process.env.FACEBOOK_ID,
@@ -95,19 +98,19 @@ export const authOptions: NextAuthOptions = {
     colorScheme: "light",
   },
   callbacks: {
-    async jwt({  token, user, account, profile, session }: any) {
+    async jwt({ token, user, account, profile, session }: any) {
       // console.log("user", user);
       // console.log("session", session);
       // console.log("token", token);
       // console.log("account", account);
       // console.log("profile", profile);
       if (user) {
-        token.role = user.role
+        token.role = user.role;
       }
       return token;
     },
     async session({ token, user, account, profile, isNewUser, session }: any) {
-      session.user.role = token.role
+      session.user.role = token.role;
       // const response = async () => {
       //   if (!token.accessToken) {
       //     const data = await makeRequest("/api/auth/userExists", {
