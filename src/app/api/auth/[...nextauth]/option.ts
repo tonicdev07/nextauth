@@ -10,6 +10,7 @@ interface GoogleProviderTy {
 }
 
 export const authOptions: NextAuthOptions = {
+  secret: process.env.NEXTAUTH_SECRET,
   providers: [
     FacebookProvider({
       clientId: process.env.FACEBOOK_ID,
