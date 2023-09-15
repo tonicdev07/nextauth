@@ -109,7 +109,7 @@ export const authOptions: NextAuthOptions = {
       }
       return token;
     },
-    async session({ token, user, account, profile, isNewUser, session }: any) {
+    async session({ token,  user, account, profile, isNewUser, session }: any) {
       session.user.role = token.role;
       // const response = async () => {
       //   if (!token.accessToken) {
