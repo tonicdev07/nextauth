@@ -8,11 +8,8 @@ interface GoogleProviderTy {
   clientId: string;
   clientSecret: string;
 }
-console.log(process.env.NEXTAUTH_SECRET);
-
 export const authOptions: NextAuthOptions = {
   secret: process.env.NEXTAUTH_SECRET,
-  session: { strategy: "jwt" },
   jwt: {
     secret: process.env.NEXTAUTH_SECRET,
   },
