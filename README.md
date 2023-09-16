@@ -30,7 +30,7 @@ yarn dev
 # or
 pnpm dev
 ```
-!(https://cdn-icons-png.flaticon.com/128/3670/3670147.png)
+![Amazon Alexa](https://cdn-icons-png.flaticon.com/128/3670/3670147.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
