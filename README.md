@@ -1,10 +1,28 @@
 ## A great fullstack next JS authentication app
 
-Portfolio <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="14" height="14"> <a href="https://tonicdev7.netlify.app">https://tonicdev7.netlify.app</a><br>
-Follow me <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="12" height="12"> <a href="https://linkedin.com/tonicdev07">https://linkedin.com/tonicdev07</a><br>
-<i class="ci ci-spotify ci-2x"></i>
-<i class="ci ci-nuxtjs ci-5x"></i>
-<i class="ci ci-redis ci-3x"></i>
+<div style="display: flex; justify-items: center; justify-content: center">
+      Portfolio
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"
+        alt="YouTube"
+        width="14"
+        height="14"
+      />
+      <a href="https://tonicdev7.netlify.app">https://tonicdev7.netlify.app</a>
+    </div>
+    <div style="display: flex; justify-items: center; justify-content: center">
+      Follow me
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"
+        alt="YouTube"
+        width="12"
+        height="12"
+      />
+      <a href="https://linkedin.com/tonicdev07"
+        >https://linkedin.com/tonicdev07</a
+      >
+    </div>
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
