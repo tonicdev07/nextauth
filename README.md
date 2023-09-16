@@ -1,10 +1,10 @@
 ## A great fullstack next JS authentication app
 
-Portfolio [https://tonicdev7.netlify.app]
-Follow me [https://github.com/tonicdev07]
-Follow me [https://www.youtube.com/@tonicdev07]
-Follow me [https://linkedin.com/tonicdev07]
-Follow me [https://facebook.com/tonicdev07]
+Portfolio [https://tonicdev7.netlify.app]`\n`
+Follow me [https://github.com/tonicdev07]`\n`
+Follow me [https://www.youtube.com/@tonicdev07]`\n`
+Follow me [https://linkedin.com/tonicdev07]`\n`
+Follow me [https://facebook.com/tonicdev07]`\n`
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -30,10 +30,7 @@ yarn dev
 # or
 pnpm dev
 ```
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-[https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465]
-
-<i class="ci ci-redis ci-3x"></i>
+!(https://cdn-icons-png.flaticon.com/128/3670/3670147.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
