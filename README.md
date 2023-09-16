@@ -2,7 +2,8 @@
 
 Portfolio [https://tonicdev7.netlify.app]`\n`
 Follow me [https://github.com/tonicdev07]`\n`
-Follow me [https://www.youtube.com/@tonicdev07]`\n`
+Follow me <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="34" height="34">
+[https://www.youtube.com/@tonicdev07]`\n`
 Follow me [https://linkedin.com/tonicdev07]`\n`
 Follow me [https://facebook.com/tonicdev07]`\n`
 
@@ -30,9 +31,6 @@ yarn dev
 # or
 pnpm dev
 ```
-
-![Amazon Alexa](https://cdn-icons-png.flaticon.com/128/3670/3670147.png)
-<img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="Amazon Alexa" width="64" height="64">
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
