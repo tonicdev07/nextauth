@@ -3,6 +3,8 @@
 const dotenv = require("dotenv");
 dotenv.config();
 
-const nextConfig = { reactStrictMode: true };
+const nextConfig = {
+  reactStrictMode: true,
+};
 
 module.exports = nextConfig;
