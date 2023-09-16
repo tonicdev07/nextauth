@@ -16,6 +16,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.8/ci.min.css"
+        />
+      </head>
       <body className={inter.className}>
         <Provider>
           <main className="flex justify-center items-start p-6 min-h-screen">

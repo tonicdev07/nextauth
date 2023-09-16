@@ -1,13 +1,10 @@
 ## A great fullstack next JS authentication app
 
-<<<<<<< HEAD
-Portfolio <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="20" height="20"> <a href="https://tonicdev7.netlify.app">https://tonicdev7.netlify.app</a><br>
-Follow me <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="20" height="20"> <a href="https://linkedin.com/tonicdev07">https://linkedin.com/tonicdev07</a><br>
-=======
 Portfolio <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="12" height="12"> <a href="https://tonicdev7.netlify.app">https://tonicdev7.netlify.app</a><br>
 Follow me <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube" width="12" height="12"> <a href="https://linkedin.com/tonicdev07">https://linkedin.com/tonicdev07</a><br>
 <i class="ci ci-spotify ci-2x"></i>
->>>>>>> 0a6e3287a6b6705b626eb7e41d2e85125ef74112
+<i class="ci ci-nuxtjs ci-5x"></i>
+<i class="ci ci-redis ci-3x"></i>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
