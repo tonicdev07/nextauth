@@ -8,6 +8,7 @@ interface GoogleProviderTy {
   clientId: string;
   clientSecret: string;
 }
+
 export const authOptions: NextAuthOptions = {
   secret: process.env.NEXTAUTH_SECRET,
   jwt: {
