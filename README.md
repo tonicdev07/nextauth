@@ -1,3 +1,5 @@
+Follow me [https://www.youtube.com/@tonicdev07](https://www.youtube.com/@tonicdev07) 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
