@@ -3,6 +3,9 @@ import { withAuth } from "next-auth/middleware";
 export default withAuth({
   callbacks: {
     authorized({ req, token }) {
+      console.log("token", token);
+      console.log(".ENV", process.env.NEXTAUTH_SECRET);
+      
       // `/admin` requires admin role
 
       if (req.nextUrl.pathname === "/admin") {
