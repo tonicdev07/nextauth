@@ -1,6 +1,23 @@
-Follow me [https://www.youtube.com/@tonicdev07](https://www.youtube.com/@tonicdev07) 
+## A great fullstack next JS authentication app
+
+Portfolio [https://tonicdev7.netlify.app]
+Follow me [https://github.com/tonicdev07]
+Follow me [https://www.youtube.com/@tonicdev07]
+Follow me [https://linkedin.com/tonicdev07]
+Follow me [https://facebook.com/tonicdev07]
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## What features does it have
+
+- Auth by Google
+- Auth by Facebook
+- Auth by GitHub
+- Auth by Credentials
+- Client rendering
+- Server rendering
+- User Protected
+- Admin role based by middleware
 
 ## Getting Started
 
@@ -13,6 +30,9 @@ yarn dev
 # or
 pnpm dev
 ```
+Spotify Icon React Icon Vue.js Icon Redis Icon Firebase Icon Instagram Icon Python Icon JavaScript Icon HTML5 Icon CSS3 Icon Node.js Icon MongoDB Icon PostgreSQL Icon Java Icon Angular Icon Nuxtjs Icon GitHub Icon Docker Icon Kubernetes Icon
+
+<i class="ci ci-redis ci-3x"></i>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
